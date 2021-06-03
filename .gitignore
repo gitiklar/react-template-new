@@ -1,2 +1,3 @@
 /with-webpack/client/node_modules
 /with-webpack/server/node_modules
+/without-webpack/node_modules

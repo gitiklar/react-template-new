@@ -1,0 +1,86 @@
+[
+	{
+		"name": "f",
+		"type": "aaa",
+		"startDate": "21.3.2021",
+		"endDate": "18.5.2021"
+	},
+	{
+		"name": "g",
+		"type": "bbb",
+		"startDate": "2.3.2021",
+		"endDate": "27.2.2021"
+	},
+	{
+		"name": "h",
+		"type": "ccc",
+		"startDate": "21.4.2021",
+		"endDate": "23.4.2021"
+	},
+	{
+		"name": "i",
+		"type": "ccc",
+		"startDate": "2.5.2021",
+		"endDate": "31.3.2021"
+	},
+	{
+		"name": "j",
+		"type": "aaa",
+		"startDate": "23.4.2021",
+		"endDate": "5.4.2021"
+	},
+	{
+		"name": "k",
+		"type": "ccc",
+		"startDate": "22.3.2021",
+		"endDate": "22.3.2021"
+	},
+	{
+		"name": "l",
+		"type": "bbb",
+		"startDate": "28.5.2021",
+		"endDate": "26.3.2021"
+	},
+	{
+		"name": "m",
+		"type": "aaa",
+		"startDate": "20.2.2021",
+		"endDate": "11.4.2021"
+	},
+	{
+		"name": "n",
+		"type": "aaa",
+		"startDate": "30.3.2021",
+		"endDate": "21.3.2021"
+	},
+	{
+		"name": "o",
+		"type": "bbb",
+		"startDate": "6.4.2021",
+		"endDate": "9.3.2021"
+	},
+	{
+		"name": "p",
+		"type": "aaa",
+		"startDate": "2.3.2021",
+		"endDate": "18.3.2021"
+	},
+	{
+		"name": "q",
+		"type": "aaa",
+		"startDate": "11.3.2021",
+		"endDate": "18.2.2021"
+	},
+	{
+		"name": "r",
+		"type": "ccc",
+		"startDate": "26.4.2021",
+		"endDate": "10.5.2021"
+	},
+	{
+		"name": "s",
+		"type": "aaa",
+		"startDate": "10.3.2021",
+		"endDate": "19.5.2021"
+	}
+]
