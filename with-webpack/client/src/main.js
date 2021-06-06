@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 import Entry from './pages/entry';
 import HomeContainer from './pages/homeContainer';
-import TableAndCalculations from './components/tableAndCalculations';
+import Table from './components/table';
 
 import store from './redux/store';
 import '../styles/main.scss';
@@ -16,7 +16,7 @@ const App = () => {
             <Router>
                 <Switch>
                     <Route path = "/home" component = {HomeContainer}/>
-                    <Route path = "/table" render={()=><HomeContainer><TableAndCalculations/></HomeContainer>}/>
+                    <Route path = "/table" render={()=><HomeContainer><Table/></HomeContainer>}/>
                     <Route path = "/" component = {Entry}/>
                 </Switch>
             </Router>
